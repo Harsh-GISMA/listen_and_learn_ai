@@ -7,6 +7,8 @@ Behind the scenes, it uses a transformer-based summarization model plus lightwei
 
 ## How it works (short workflow)
 
+For a youtube video on how to use click(https://youtu.be/51J1aFWrUNI).
+
 1. Input  
    - Upload an audio/video lecture file (e.g., MP3, MP4) or paste lecture text directly into the app.  
 2. Transcription / text processing  
